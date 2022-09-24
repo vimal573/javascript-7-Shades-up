@@ -28,4 +28,4 @@
 
 #### Screenshot
 
-![Desktop](./Image/js-3.jpg)
+![Desktop](./Images/js-7.png)
